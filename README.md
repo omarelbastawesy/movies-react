@@ -1,5 +1,9 @@
 #live site  :  "https://omarelbastawesy.github.io/movies-react"
 
+
+![screencapture](https://user-images.githubusercontent.com/102428312/174334966-3cca7172-96d4-4781-a864-1fa686b94530.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
